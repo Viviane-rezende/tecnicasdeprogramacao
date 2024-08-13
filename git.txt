@@ -1,0 +1,15 @@
+Ao iniciar repositório:
+
+Usuario
+git config --global user.name viviane-rezende
+git config --global user.email vivianerezende95@gmail.com
+
+Clone local
+git clone  https://github.com/Viviane-rezende/tecnicasdeprogramacao.git
+
+Atualizar o repositorio
+git add .
+git commit -m "nome do commit"
+git push
+
+
